@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on **MERN Stack** and **NextJS**  
-🌱 I’m currently learning **Data Science**
+🌱 I’m currently learning **Data Science** <br>
 👨‍💻 All of my projects are available at [GitHub](https://github.com/SnehaSharma245)  
 💬 Let’s geek out about **React**, **Node.js**, **MongoDB**, and all things tech!  
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ss0807/)  
