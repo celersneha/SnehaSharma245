@@ -154,7 +154,7 @@ _🎬 Bringing the magic of cinema to your fingertips with seamless user experie
 
 <div align="center">
   <br/>
-  <a href="https://github.com/yourusername?tab=repositories">
+  <a href="https://github.com/SnehaSharma245?tab=repositories">
     <img src="https://img.shields.io/badge/📂_View_All_Repos-131414?style=for-the-badge&logo=github&logoColor=white" alt="View All Repositories" />
   </a>
 </div>
