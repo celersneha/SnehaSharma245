@@ -1,4 +1,4 @@
-ni<div align="center">
+<div align="center">
 
 ## 🌟 **Welcome to My Digital Universe** 🌟
 
