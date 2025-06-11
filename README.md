@@ -1,4 +1,4 @@
-<div align="center">
+ni<div align="center">
 
 ## 🌟 **Welcome to My Digital Universe** 🌟
 
@@ -68,7 +68,7 @@
 
 #### **AI & Integration**
 
-![Gemini AI](https://img.shields.io/badge/Google_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Gemini AI](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=api&logoColor=white)
 
 #### **Tools & Technologies**
