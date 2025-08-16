@@ -21,68 +21,101 @@
 
 ## 💻 About Me
 
-
 ```json
 {
   "developer": "Sneha",
   "basedIn": "India 🇮🇳",
   "passion": "Building digital solutions that matter ",
-  "coreStack": ["MERN", "Next.js", "Full-Stack Development"],
+  "currentFocus": ["Langchain-js", "GenAI", "WebDevelopment"],
+  "coreStack": ["Next.js", "MERN", "Full-Stack Development"],
   "techArsenal": {
-    "frontend": ["React", "Next.js", "JavaScript", "TailwindCSS"],
-    "backend": ["Node.js", "Express", "MongoDB", "REST APIs"],
-    "tools": ["Git", "VS Code", "Postman", "Figma"],
-    "learning": ["TypeScript", "GraphQL", "AI  APIs", "Microservices"]
+    "Frontend": [
+      "Next.js",
+      "React.js",
+      "Typescript",
+      "JavaScript",
+      "TailwindCSS",
+      "HTML",
+      "CSS",
+      "Component Libraries"
+    ],
+    "Backend": [
+      "Node.js",
+      "Express.js",
+      "API Integration",
+      "Webhooks",
+      "Websocket"
+    ],
+    "Databases": ["MongoDB", "PostgreSQL", "Redis"],
+    "GenAI": ["Langchain.js", "Vector Databases", "RAG Pipelines"],
+    "tools & Services": [
+      "Git",
+      "Postman",
+      "Docker",
+      "Browser APIs",
+      "Github",
+      "Github Actions"
+    ],
+    "learning": ""
   },
-  "askMeAbout": [
-    "React Hooks",
-    "API Design",
-    "Open Source",
-    "AI Integration",
-    "Code Reviews"
-  ],
-  "currentMission": "Contributing to open source & exploring AI-powered web development"
+  "askMeAbout": "Next.js, LangChain.js, RAG Pipelines, scalable WebApps, and turning cool ideas into full-stack solutions",
+  "funFact": "Git commit messages = my secret diary 📖"
 }
 ```
 
 ---
 
-## 🛠️ Crafting with These
+## 🚀 Featured Projects
 
-#### **Frontend Development**
+### 🚀 **DevZoku - Hackathon Collaboration Platform**
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+_A platform that helps developers discover hackathons, form teams, and collaborate effectively, while giving organizers a space to showcase their upcoming events._
 
-#### **Backend Development**
+[![Live Link](https://img.shields.io/badge/_Live_Link-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://devzoku.vercel.app)
+[![Source Code](https://img.shields.io/badge/_Source_Code-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/celersneha/devzoku)
 
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+**Tech Stack:**  
+`Next.js` `TypeScript` `TailwindCSS` `Express.js` `MongoDB` `LangChain.js` `Vector Databases` `Docker` `Sockets` `Nodemailer` `BullMQ`
 
-#### **AI & Integration**
+**Key Features:**
 
-![Gemini AI](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=api&logoColor=white)
+### 👨‍💻 For Developers
 
-#### **Tools & Technologies**
+- 📄 Create profiles social links
+- 🛠️ Manage Projects Portfolio
+- 👥 Form or join teams with like-minded peers
+- 🔎 Discover hackathons with smart suggestions based on skills
+- 🔔 Get real-time notifications for invites and hackathons
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+### 🏢 For Organizers
+
+- 📝 Add and list upcoming hackathons with requirements
+- 🌍 Reach developers directly in relevant domains
 
 ---
 
-## 🚀 Featured Projects
+### 🔍 **InvisiFeed - Privacy-Focused Social Media Platform**
+
+_A secure social media platform with anonymous posting, encrypted messaging, and advanced privacy controls_
+
+[![Live Link](https://img.shields.io/badge/_Live_Demo-00D2FF?style=for-the-badge&logo=vercel&logoColor=white)](https://invisifeed.vercel.app)
+[![Source Code](https://img.shields.io/badge/_Source_Code-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zenoshubh/InvisiFeed)
+
+**Tech Stack:** `Next.js` `MongoDB` `Framer Motion` `ShadCN` `Framer Motion` `Gemini AI` `Razorpay`
+
+**Key Features:**
+
+- 🤖 AI-powered feedback analysis using Gemini 2.0 Flash API
+- 💳 Integrated payment system with Razorpay for seamless transactions
+- 📊 Advanced analytics dashboard with interactive charts using Recharts
+- 🎨 Modern UI with TailwindCSS, ShadCN, and smooth Framer Motion animations
+- 📱 Fully responsive Next.js app with App Router architecture
+- 🔐 Secure authentication system with NextAuth and JWT
+- 📄 Automated PDF generation for invoices and feedback reports
+
+_🤝 Collaborative project showcasing teamwork and modern web development practices_
+
+---
 
 ### 🎯 **InactiTab - Smart Tab Management Extension**
 
@@ -101,29 +134,6 @@ _A Chrome browser extension that intelligently manages inactive tabs to optimize
 - 🏷️ Visual badge indicators for inactive tabs when auto-close is disabled
 - 🔧 Whitelist management for important sites
 - 📊 Real-time statistics and intuitive user interface
-
----
-
-### 🔍 **InvisiFeed - Privacy-Focused Social Media Platform**
-
-_A secure social media platform with anonymous posting, encrypted messaging, and advanced privacy controls_
-
-[![Live Demo](https://img.shields.io/badge/_Live_Demo-00D2FF?style=for-the-badge&logo=vercel&logoColor=white)](https://invisifeed.vercel.app)
-[![Source Code](https://img.shields.io/badge/_Source_Code-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zenoshubh/InvisiFeed)
-
-**Tech Stack:** `Next.js` `MongoDB` `Framer Motion` `ShadCN` `Framer Motion` `Gemini AI` `Razorpay`
-
-**Key Features:**
-
-- 🤖 AI-powered feedback analysis using Gemini 2.0 Flash API
-- 💳 Integrated payment system with Razorpay for seamless transactions
-- 📊 Advanced analytics dashboard with interactive charts using Recharts
-- 🎨 Modern UI with TailwindCSS, ShadCN, and smooth Framer Motion animations
-- 📱 Fully responsive Next.js app with App Router architecture
-- 🔐 Secure authentication system with NextAuth and JWT
-- 📄 Automated PDF generation for invoices and feedback reports
-
-_🤝 Collaborative project showcasing teamwork and modern web development practices_
 
 ---
 
@@ -154,22 +164,76 @@ _🎬 Bringing the magic of cinema to your fingertips with seamless user experie
 
 <div align="center">
   <br/>
-  <a href="https://github.com/SnehaSharma245?tab=repositories">
+  <a href="https://github.com/celersneha?tab=repositories">
     <img src="https://img.shields.io/badge/📂_View_All_Repos-131414?style=for-the-badge&logo=github&logoColor=white" alt="View All Repositories" />
   </a>
 </div>
 
 ---
 
+## 🛠️ Crafting with These
+
+<h4 align="center"><b> Frontend Development</b></h4>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Component%20Libraries-4B0082?style=for-the-badge&logo=storybook&logoColor=white"/>
+</p>
+
+<h4 align="center"><b> Backend Development</b></h4>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/API%20Integration-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Webhooks-FF4500?style=for-the-badge&logo=webhooks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WebSocket-008080?style=for-the-badge&logo=socket.io&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"/>
+</p>
+
+<h4 align="center"><b>Databases</b></h4>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+</p>
+
+<h4 align="center"><b>GenAI</b></h4>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain.js-1E90FF?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vector%20Databases-800080?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG%20Pipelines-FF1493?style=for-the-badge&logo=ai&logoColor=white"/>
+</p>
+
+<h4 align="center"><b>Tools & Services</b></h4>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Browser%20APIs-4682B4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</p>
+
+---
+
 ## 📊 GitHub Analytics
 
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnehaSharma245&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Most Used Languages" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=celersneha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Most Used Languages" height="200"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SnehaSharma245&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=79C0FF&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=celersneha&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=79C0FF&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak" />
 </div>
 
 ---
