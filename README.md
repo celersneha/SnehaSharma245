@@ -246,8 +246,11 @@ _🎬 Bringing the magic of cinema to your fingertips with seamless user experie
 
 <div align="center">
 
-### 👋 See you on the next pull request. Happy coding! 🎉
+### 🔗 *Maybe our repos will cross paths soon.*  
 
-💫 **_"Code. Create. Innovate."_** 💫
+---
+
+<p align="center">✨ from <a href="https://github.com/celersneha"><b>celersneha</b></a> ✨</p>
+
 
 </div>
