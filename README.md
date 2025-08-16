@@ -54,7 +54,8 @@
       "Docker",
       "Browser APIs",
       "Github",
-      "Github Actions"
+      "Github Actions",
+      "Vercel"
     ],
     "learning": ""
   },
