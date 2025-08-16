@@ -10,10 +10,10 @@
 
 🌀 _Coding chaos into creativity_
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ss0807/)
-[![Twitter](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/SnehaDevs)
-[![Gmail](https://img.shields.io/badge/Gmail-EE3C31?style=for-the-badge&logo=gmail&logoColor=white)](mailto:snehav2109@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SnehaSharma245)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/celersneha/)
+[![Twitter](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/celersneha)
+[![Gmail](https://img.shields.io/badge/Gmail-EE3C31?style=for-the-badge&logo=gmail&logoColor=white)](mailto:celersneha@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/celersneha)
 
 </div>
 
