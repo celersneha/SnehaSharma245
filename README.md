@@ -250,7 +250,7 @@ _🎬 Bringing the magic of cinema to your fingertips with seamless user experie
 
 ---
 
-<p align="center">✨ from <a href="https://github.com/celersneha"><b>celersneha</b></a> ✨</p>
+<p align="center">✨ _from <a href="https://github.com/celersneha"><b>celersneha</b></a>_ </p>
 
 
 </div>
