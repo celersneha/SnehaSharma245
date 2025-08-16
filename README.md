@@ -58,7 +58,13 @@
     ],
     "learning": ""
   },
-  "askMeAbout": "Next.js, LangChain.js, RAG Pipelines, scalable WebApps, and turning cool ideas into full-stack solutions",
+  "askMeAbout": [
+  "Next.js",
+  "LangChain.js",
+  "RAG",
+  "Scalable Apps",
+  "Full-Stack Builds"
+]
   "funFact": "Git commit messages = my secret diary 📖"
 }
 ```
