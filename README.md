@@ -57,7 +57,7 @@
       "Github Actions",
       "Vercel"
     ],
-    "learning": ""
+    "learning": "Building Production Grade Applications"
   },
   "askMeAbout": [
   "Next.js",
